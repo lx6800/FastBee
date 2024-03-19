@@ -1,7 +1,7 @@
 ![](https://oscimg.oschina.net/oscnet/up-09e0fd4e7966a3049aa39e7ab2a99dc5586.png)
 
 ### 一、项目介绍
-0. 物美智能(wumei-smart)更名为[蜂信物联(FastBee)](https://fastbee.cn)。
+0. [蜂信物联(FastBee)](https://fastbee.cn)。
 
 1. FastBee开源物联网平台，简单易用，更适合中小企业和个人学习使用。适用于智能家居、智慧办公、智慧社区、农业监测、水利监测、工业控制等。
 
